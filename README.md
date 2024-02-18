@@ -1,4 +1,6 @@
-## Hey 👋, I'm Sina Salimirad  
+<img src="https://komarev.com/ghpvc/?username=sinasalimirad&color=red&abbreviated=true"/> <br/>
+
+## Hey 👋, I'm Sina Salimirad
   
 <a href="https://github.com/sinasalimirad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -36,16 +38,9 @@ I’m a frontend developer from Iran,  and I do content on Design and Developmen
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinasalimirad&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinasalimirad&theme=shadow_red&hide_border=false&layout=compact) <br/>
 
-</td><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api?username=sinasalimirad&show_icons=true&theme=shadow_red) <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinasalimirad&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=sinasalimirad&&style=flat-square)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sinasalimirad&theme=shadow_red&hide_border=false)
