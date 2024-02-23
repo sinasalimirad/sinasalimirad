@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=48&pause=500&color=5BF7DB&center=true&random=false&width=1000&height=150&lines=Hi+There!+%F0%9F%91%8B;I'm+Sina+Salimirad!)](https://git.io/typing-svg)
 
 <h3 align=center> A frontend web developer from Iran</h3>
-<p align=center> 🔭 I’m currently working on Frontend Mentor Challenges</p>
+<p align=center> 🔭 I’m currently working on SAVA-energy repo</p>
 <p align=center>🌱 I’m currently learning React</p>
 
 ## Contact With Me
