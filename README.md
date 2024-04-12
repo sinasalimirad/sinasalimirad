@@ -14,9 +14,3 @@
 ## MY Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,py)](https://skillicons.dev)
 <br><br>
-
-## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sinasalimirad&theme=midnight-purple)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinasalimirad&show_icons=true&theme=midnight-purple)
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sinasalimirad.visitor-badge&left_text=Page%20View)
