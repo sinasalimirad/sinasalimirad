@@ -8,9 +8,8 @@
 ## Contact With Me
 <a href="https://github.com/sinasalimirad" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:cinasalimirad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/salimirad_sina" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <br><br>
 
 ## MY Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,py,git)](https://skillicons.dev)
 <br><br>
